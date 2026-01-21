@@ -1,7 +1,7 @@
 <h1>Final Captsone Project: Sales and Inventory Management System </h1>
 <h3>Project Documentation for the Final Capstone Project in Computer Programming 2</h3>
 
-- 🔭 We're currently working on **Sales and Inventory Management System (SIMS)**
+- 🔭 We're the Group 10 of BSIT 1-1, currently working on our capstone project: **Sales and Inventory Management System (SIMS)**
 
 - 🌱 We're currently learning **Python**
 
